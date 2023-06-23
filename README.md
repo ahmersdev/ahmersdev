@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ahmer
 
-# 👀 Experienced & Certified Web Application Developer and Webflow Specialist with 5 years of industry expertise. Successfully completed over 200+ projects, delivering stunning website designs. Passionate about creating engaging web apps that drive results and exceed client expectations.
+👀 Experienced & Certified Web Application Developer and Webflow Specialist with 5 years of industry expertise. Successfully completed over 200+ projects, delivering stunning website designs. Passionate about creating engaging web apps that drive results and exceed client expectations.
 - 💞️ With expertise in
   <ol>
     <li>HTML5</li>
