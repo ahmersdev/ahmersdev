@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Ahmer
 - 👀 Frontend Web Developer
 - 💞️ With expertise in
-    HTML5
-    XHTML
-    CSS3
-    Bootstrap
+  <ol>
+    <li>HTML5</li>
+    <li>XHTML</li>
+    <li>CSS3</li>
+    <li>Bootstrap</li>
+</ol>
 - 🌱 I bring seamless visual appeal and responsive design to your website. Leveraging:
     JavaScript
     NextJS
