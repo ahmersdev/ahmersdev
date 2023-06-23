@@ -5,22 +5,20 @@
 <hr />
 
 📫 Reach me through email: mahmerakram6@gmail.com
-- 💞️ With expertise in
-  <ol>
-    <li>HTML5</li>
-    <li>XHTML</li>
-    <li>CSS3</li>
-    <li>Bootstrap</li>
-  </ol>
-- 🌱 I bring seamless visual appeal and responsive design to your website. Leveraging:
-  <ol>
-    <li>JavaScript</li>
-    <li>NextJS</li>
-    <li>ReactJS</li>
-    <li>React TSX/TypeScript</li>
-    <li>JSON</li>
-  </ol>
+<hr />
+🌱 Here are a few technologies I’ve been working with recently:
+  <ul>
+    <li>Next</li>
+    <li>React</li>
+    <li>JavaScript (ES6+)</li>
+    <li>Material UI</li>
+    <li>Ant Design</li>
+    <li>WordPress</li>
+    <li>Wix</li>
+    <li>Webflow</li>
+  </ul>
   I create dynamic and interactive web experiences that captivate your audience.
+  <hr />
 
 
 <!---
