@@ -2,6 +2,8 @@
 
 👀 Experienced & Certified Web Application Developer and Webflow Specialist with 5 years of industry expertise. Successfully completed over 200+ projects, delivering stunning website designs. Passionate about creating engaging web apps that drive results and exceed client expectations.
 
+<hr />
+
 📫 Reach me through email: mahmerakram6@gmail.com
 - 💞️ With expertise in
   <ol>
