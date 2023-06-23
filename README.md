@@ -6,13 +6,15 @@
     <li>XHTML</li>
     <li>CSS3</li>
     <li>Bootstrap</li>
-</ol>
+  </ol>
 - 🌱 I bring seamless visual appeal and responsive design to your website. Leveraging:
-    JavaScript
-    NextJS
-    ReactJS
-    React TSX/TypeScript
-    JSON
+  <ol>
+    <li>JavaScript</li>
+    <li>NextJS</li>
+    <li>ReactJS</li>
+    <li>React TSX/TypeScript</li>
+    <li>JSON</li>
+  </ol>
   I create dynamic and interactive web experiences that captivate your audience.
 - 📫 How to reach me: mahmerakram6@gmail.com
 
