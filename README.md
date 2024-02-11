@@ -4,7 +4,7 @@
 
 <hr />
 
-📫 Reach me through email: mahmerakram6@gmail.com
+📫 Reach me through email: contact@ahmersdev.com
 <hr />
 🌱 Here are a few technologies I’ve been working with recently:
   <ul>
