@@ -4,7 +4,10 @@
 
 <hr />
 
-📫 Reach me through email: contact@ahmersdev.com
+📫 Reach me through:
+email: <a href="mailto:contact@ahmersdev.com" target="_blank">contact@ahmersdev.com</a>
+whatsapp: <a href="https://wa.me/+923154806474" target="_blank">+923154806474</a>
+
 <hr />
 🌱 Here are a few technologies I’ve been working with recently:
   <ul>
