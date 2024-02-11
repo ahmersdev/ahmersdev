@@ -4,8 +4,8 @@
 
 <hr />
 
-📫 Reach me through:
-email: <a href="mailto:contact@ahmersdev.com" target="_blank">contact@ahmersdev.com</a>
+📫 Reach me through: <br />
+email: <a href="mailto:contact@ahmersdev.com" target="_blank">contact@ahmersdev.com</a><br />
 whatsapp: <a href="https://wa.me/+923154806474" target="_blank">+923154806474</a>
 
 <hr />
