@@ -67,6 +67,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/ahmersdev/ahmersdev/blob/main/github/workflows/snake.yml" alt="Snake animation" />
-
 ###
