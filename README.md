@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">👀 Experienced & Certified Frontend Engineer with 3+ years of industry expertise. Successfully completed over 200+ projects, delivering stunning website designs. Passionate about creating engaging web apps that drive results and exceed client expectations.</h5>
+<h5 align="left">👀 Experienced and driven Software Engineer with 4+ years of expertise in crafting innovative, user-centric digital solutions across web and mobile platforms. Proven ability to deliver full-featured web applications and cross-platform mobile apps published on both the Google Play Store and Apple App Store. Eager to contribute my skills and passion for software development to a dynamic team, while continuing to grow professionally and achieve personal goals.</h5>
 
 ###
 
