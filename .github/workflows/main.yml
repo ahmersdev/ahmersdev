@@ -28,7 +28,7 @@ jobs:
       - name: Generate SVGs
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          GITHUB_USERNAME: ahmersdev
+          GITHUB_USERNAME: ahmerdock
         run: python today.py
 
       - name: Commit and push if changed
