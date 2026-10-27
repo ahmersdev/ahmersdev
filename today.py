@@ -12,7 +12,7 @@ import os
 import datetime
 import requests
 
-USERNAME = os.environ.get("GITHUB_USERNAME", "ahmersdev")
+USERNAME = os.environ.get("GITHUB_USERNAME", "ahmerdock")
 ACCESS_TOKEN = os.environ["ACCESS_TOKEN"]
 HEADERS = {"Authorization": f"bearer {ACCESS_TOKEN}"}
 GRAPHQL_URL = "https://api.github.com/graphql"
@@ -20,9 +20,9 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 TAGLINE = "Full-Stack Engineer"
 TECH_LINE_1 = "React.js, Next.js, TypeScript, Node.js, NestJS"
 TECH_LINE_2 = "PostgreSQL, MongoDB, React Native, AWS, Docker"
-EMAIL = "official.ahmersdev@gmail.com"
-LINKEDIN = "linkedin.com/in/ahmersdev"
-PORTFOLIO = "ahmersdev.com"
+EMAIL = "official.ahmerdock@gmail.com"
+LINKEDIN = "linkedin.com/in/ahmerdock"
+PORTFOLIO = "ahmerdock.com"
 
 
 def run_query(query, variables=None):
