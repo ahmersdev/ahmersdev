@@ -2,8 +2,8 @@
 
 <!-- Theme-aware Terminal Cards (Generated via your Python pipeline) -->
 
-![Ahmer's GitHub stats](https://raw.githubusercontent.com/ahmersdev/ahmersdev/main/dark_mode.svg#gh-dark-mode-only)
-![Ahmer's GitHub stats](https://raw.githubusercontent.com/ahmersdev/ahmersdev/main/light_mode.svg#gh-light-mode-only)
+![Ahmer's GitHub stats](https://raw.githubusercontent.com/ahmerdock/ahmerdock/main/dark_mode.svg#gh-dark-mode-only)
+![Ahmer's GitHub stats](https://raw.githubusercontent.com/ahmerdock/ahmerdock/main/light_mode.svg#gh-light-mode-only)
 
 ---
 
